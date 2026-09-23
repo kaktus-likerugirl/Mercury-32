@@ -219,4 +219,4 @@ Mercury/32 is fully free to download and use with all features and updates inclu
 Take control of your email management today! Download Mercury/32 for free and experience the power of a dedicated email server on your Windows PC.
 
 ---
-**Last updated:** 2026-09-22 22:35:00 UTC
+**Last updated:** 2026-09-23 01:06:53 UTC
